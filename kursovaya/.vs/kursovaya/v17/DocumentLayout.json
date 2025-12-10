@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\kursovaya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96149B29-E83E-4DE3-8567-3578E7F3945A}|kursovaya\\kursovaya.csproj|C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96149B29-E83E-4DE3-8567-3578E7F3945A}|kursovaya\\kursovaya.csproj|solutionrelative:kursovaya\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96149B29-E83E-4DE3-8567-3578E7F3945A}|kursovaya\\kursovaya.csproj|c:\\users\\user\\source\\repos\\kursovaya\\kursovaya\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96149B29-E83E-4DE3-8567-3578E7F3945A}|kursovaya\\kursovaya.csproj|solutionrelative:kursovaya\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96149B29-E83E-4DE3-8567-3578E7F3945A}|kursovaya\\kursovaya.csproj|C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\formcolorpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96149B29-E83E-4DE3-8567-3578E7F3945A}|kursovaya\\kursovaya.csproj|solutionrelative:kursovaya\\formcolorpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96149B29-E83E-4DE3-8567-3578E7F3945A}|kursovaya\\kursovaya.csproj|C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\texteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96149B29-E83E-4DE3-8567-3578E7F3945A}|kursovaya\\kursovaya.csproj|solutionrelative:kursovaya\\texteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96149B29-E83E-4DE3-8567-3578E7F3945A}|kursovaya\\kursovaya.csproj|C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\formresize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96149B29-E83E-4DE3-8567-3578E7F3945A}|kursovaya\\kursovaya.csproj|solutionrelative:kursovaya\\formresize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96149B29-E83E-4DE3-8567-3578E7F3945A}|kursovaya\\kursovaya.csproj|C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\texteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96149B29-E83E-4DE3-8567-3578E7F3945A}|kursovaya\\kursovaya.csproj|solutionrelative:kursovaya\\texteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96149B29-E83E-4DE3-8567-3578E7F3945A}|kursovaya\\kursovaya.csproj|C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\formcolorpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96149B29-E83E-4DE3-8567-3578E7F3945A}|kursovaya\\kursovaya.csproj|solutionrelative:kursovaya\\formcolorpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96149B29-E83E-4DE3-8567-3578E7F3945A}|kursovaya\\kursovaya.csproj|C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96149B29-E83E-4DE3-8567-3578E7F3945A}|kursovaya\\kursovaya.csproj|solutionrelative:kursovaya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96149B29-E83E-4DE3-8567-3578E7F3945A}|kursovaya\\kursovaya.csproj|C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\colorutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96149B29-E83E-4DE3-8567-3578E7F3945A}|kursovaya\\kursovaya.csproj|solutionrelative:kursovaya\\colorutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96149B29-E83E-4DE3-8567-3578E7F3945A}|kursovaya\\kursovaya.csproj|C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\formresize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96149B29-E83E-4DE3-8567-3578E7F3945A}|kursovaya\\kursovaya.csproj|solutionrelative:kursovaya\\formresize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96149B29-E83E-4DE3-8567-3578E7F3945A}|kursovaya\\kursovaya.csproj|C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96149B29-E83E-4DE3-8567-3578E7F3945A}|kursovaya\\kursovaya.csproj|solutionrelative:kursovaya\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TextEditor.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\TextEditor.cs",
+              "RelativeDocumentMoniker": "kursovaya\\TextEditor.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\TextEditor.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "kursovaya\\TextEditor.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:55:13.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ColorUtils.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\ColorUtils.cs",
+              "RelativeDocumentMoniker": "kursovaya\\ColorUtils.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\ColorUtils.cs",
+              "RelativeToolTip": "kursovaya\\ColorUtils.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T18:40:33.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextEditor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\TextEditor.cs",
+              "RelativeDocumentMoniker": "kursovaya\\TextEditor.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\TextEditor.cs",
+              "RelativeToolTip": "kursovaya\\TextEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T18:13:56.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormColorPicker.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\FormColorPicker.cs",
+              "RelativeDocumentMoniker": "kursovaya\\FormColorPicker.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\FormColorPicker.cs",
+              "RelativeToolTip": "kursovaya\\FormColorPicker.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T18:13:20.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormResize.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\FormResize.cs",
+              "RelativeDocumentMoniker": "kursovaya\\FormResize.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\FormResize.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "kursovaya\\FormResize.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T18:09:44.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\Program.cs",
+              "RelativeDocumentMoniker": "kursovaya\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\Program.cs",
+              "RelativeToolTip": "kursovaya\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T18:09:16.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "kursovaya\\FormMain.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\FormMain.Designer.cs",
+              "RelativeToolTip": "kursovaya\\FormMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T18:09:12.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\FormMain.cs",
+              "RelativeDocumentMoniker": "kursovaya\\FormMain.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\FormMain.cs",
+              "RelativeToolTip": "kursovaya\\FormMain.cs",
+              "ViewState": "AgIAAOgHAAAAAAAAAAAcwAEIAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T18:08:17.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormResize.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\FormResize.cs",
+              "RelativeDocumentMoniker": "kursovaya\\FormResize.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\FormResize.cs",
+              "RelativeToolTip": "kursovaya\\FormResize.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T18:08:03.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormColorPicker.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\FormColorPicker.cs",
+              "RelativeDocumentMoniker": "kursovaya\\FormColorPicker.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\FormColorPicker.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "kursovaya\\FormColorPicker.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T12:02:01.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\FormMain.cs",
+              "RelativeDocumentMoniker": "kursovaya\\FormMain.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\kursovaya\\kursovaya\\FormMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "kursovaya\\FormMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T18:07:51.717Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
